@@ -75,4 +75,4 @@ if (message.content.startsWith(adminprefix + 'st')) {
  
  
  
-client.login("MzI2NDc0Mjc2MTc1NjA5ODU3.Do-bVg.uW7Uw26aVsy);
+client.login("MzI2NDc0Mjc2MTc1NjA5ODU3.Do-bVg.uW7Uw26aVsydagzwHuEWY5k8nfc");
